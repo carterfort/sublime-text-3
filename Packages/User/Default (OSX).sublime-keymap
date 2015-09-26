@@ -1,0 +1,24 @@
+[
+    { "keys": ["f9"], "command": "expand_fqcn" },
+    { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["f10"], "command": "find_use" },
+    { "keys": ["f8"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+    { "keys": ["shift+f8"], "command" : "insert_php_constructor_property" },
+
+    {
+        "button": "button1", 
+        "count": 1, 
+        "modifiers": ["ctrl"],
+        "press_command": "drag_select",
+        "command": "goto_definition"
+    },
+    { 
+        "keys": ["ctrl+i"], 
+        "command": "run_macro_file", 
+        "args": {"file": "res://Packages/User/initialize_properties.sublime-macro"} 
+    },
+    { "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["super+shift+w"], "command" : "close_all" }
+]

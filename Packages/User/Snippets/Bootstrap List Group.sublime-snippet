@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="list-group">
+@foreach(${1:collection} as ${2:item})
+	<div class="list-group-item">
+		{{ ${2}${3} }}
+	</div>
+@endforeach
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>listGroup</tabTrigger>
+</snippet>

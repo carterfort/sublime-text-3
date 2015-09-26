@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"GitGutter",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpSimpleRefactor",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeTextGitX"
+	]
+}

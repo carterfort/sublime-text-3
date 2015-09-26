@@ -1,0 +1,6 @@
+/** FILE: PHPSimpleRefactor.sublime-settings **/
+
+{
+    "php_path" : "/usr/bin/php",
+    "refactor_path" : "/usr/local/bin/refactor" 
+}
