@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/Users/cfort/Code/sqc",
 		"/Users/cfort/Development/sqc",
 		"/Users/cfort/Code/chat",
 		"/Users/cfort/Development/redis-test",
@@ -22,7 +23,7 @@
 		"/Users/cfort/Development/david"
 	],
 	"last_version": 3083,
-	"last_window_id": 90,
+	"last_window_id": 91,
 	"log_indexing": false,
 	"settings":
 	{
@@ -33,6 +34,22 @@
 			{
 				"selected_items":
 				[
+					[
+						"chat",
+						"chat_enabled	(ChatPolicy.php)"
+					],
+					[
+						"message",
+						"message	(sockets.js)"
+					],
+					[
+						"bro",
+						"broadcastTo"
+					],
+					[
+						"user_id",
+						"user_id"
+					],
 					[
 						"dep",
 						"departmentId"
@@ -393,10 +410,46 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "new",
+				"height": 336.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"an",
+						"ANF: New File"
+					],
+					[
+						"make contr",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"",
+						"ANF: New File"
+					],
+					[
+						"make migra",
+						"Laravel Artisan: Make: Migration"
+					],
+					[
+						"make even",
+						"Laravel Artisan: Make: Event"
+					],
+					[
+						"make mod",
+						"Laravel Make: Model"
+					],
+					[
+						"mak contr",
+						"Laravel Artisan: Make: Controller"
+					],
 					[
 						"new",
 						"ANF: New File"
@@ -414,16 +467,8 @@
 						"Laravel Make: Model"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"mcon",
 						"Laravel Artisan: Make: Controller"
-					],
-					[
-						"",
-						"ANF: New File"
 					],
 					[
 						"macont",
@@ -597,6 +642,12 @@
 			},
 			"file_history":
 			[
+				"/Users/cfort/Code/chat/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/cfort/Code/chat/ChatController",
 				"/Users/cfort/Development/sqc/resources/views/services/search-results/universal.blade.php",
 				"/Users/cfort/Development/sqc/app/Http/Controllers/VendorFeesController.php",
 				"/Users/cfort/Development/sqc/resources/views/employee-portal/billing/upcoming-service-changes.blade.php",
@@ -718,13 +769,7 @@
 				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/CreateEntryRequest.php",
 				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/CreateSectionRequest.php",
 				"/Users/cfort/Development/sqc_v2/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-				"/Users/cfort/Development/sqc_v2/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ParameterBag.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Services/ArticleListViewComposerServiceProvider.php",
-				"/Users/cfort/Development/sqc_v2/app/Providers/ViewComposerProvider.php",
-				"/Users/cfort/Development/sqc_v2/tests/TestCase.php",
-				"/Users/cfort/Development/sqc_v2/.gitignore",
-				"/Users/cfort/Development/sqc_v2/app/SQCentral/CustomerContract/ContractWasSigned.php",
-				"/Users/cfort/Development/sqc_v2/app/SQCentral/Repositories/Interfaces/CustomerInvoiceLineItemRepositoryInterface.php"
+				"/Users/cfort/Development/sqc_v2/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ParameterBag.php"
 			],
 			"find":
 			{
@@ -751,6 +796,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"alt+down",
+					"down",
+					"this.message",
+					"input",
+					"Auth",
+					"auth",
+					"Auth",
+					"auth",
 					"state",
 					"attribtes",
 					"manualAdd",
@@ -864,7 +917,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 208.0
+				"height": 207.0
 			},
 			"output.find_results":
 			{
@@ -883,12 +936,96 @@
 				"selected_items":
 				[
 					[
-						"route/em",
-						"app/Http/routes/employee-portal.php"
+						"layo/st",
+						"resources/views/layouts/standard.blade.php"
+					],
+					[
+						"",
+						"app/User.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"chatcontr",
+						"app/Http/Controllers/ChatController.php"
+					],
+					[
+						"sock",
+						"sockets.js"
+					],
+					[
+						"chatcon",
+						"app/Http/Controllers/ChatController.php"
+					],
+					[
+						"mes",
+						"app/Message.php"
+					],
+					[
+						"chatpo",
+						"app/Policies/ChatPolicy.php"
+					],
+					[
+						"message",
+						"app/Message.php"
+					],
+					[
+						"messagescontr",
+						"app/Http/Controllers/MessagesController.php"
+					],
+					[
+						"messagewas",
+						"app/Events/MessageWasPosted.php"
+					],
+					[
+						"chat",
+						"resources/views/chat.blade.php"
+					],
+					[
+						"cahtco",
+						"ChatController"
 					],
 					[
 						"route",
 						"app/Http/routes.php"
+					],
+					[
+						"kernel",
+						"app/Http/Kernel.php"
+					],
+					[
+						"createmess",
+						"database/migrations/2015_10_04_124405_create_messages_table.php"
+					],
+					[
+						"authcont",
+						"app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"wel",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"messagescon",
+						"app/Http/Controllers/MessagesController.php"
+					],
+					[
+						"welc",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"messagecontr",
+						"app/Http/Controllers/MessagesController.php"
+					],
+					[
+						"broa",
+						"config/broadcasting.php"
+					],
+					[
+						"route/em",
+						"app/Http/routes/employee-portal.php"
 					],
 					[
 						"incidentassig",
@@ -949,10 +1086,6 @@
 					[
 						"addressser",
 						"app/SQCentral/Services/AddressService.php"
-					],
-					[
-						"",
-						"resources/views/users/employees/set-active-status.blade.php"
 					],
 					[
 						"userscon",
@@ -1105,10 +1238,6 @@
 					[
 						"inci/edi",
 						"resources/views/incidents/edit.blade.php"
-					],
-					[
-						"user",
-						"app/Models/User.php"
 					],
 					[
 						"yser",
@@ -1317,82 +1446,6 @@
 					[
 						"termcontrl",
 						"app/Knowledgebase/Controllers/GlossaryGlobalTermsController.php"
-					],
-					[
-						"r/know",
-						"app/Http/routes/knowledgebase.php"
-					],
-					[
-						"glostermdefcon",
-						"app/Knowledgebase/Controllers/GlossaryTermDefinitionsController.php"
-					],
-					[
-						"term.bl",
-						"resources/views/knowledgebase/glossary/term.blade.php"
-					],
-					[
-						"defini",
-						"app/Knowledgebase/Models/Glossary/Definition.php"
-					],
-					[
-						"create-d",
-						"resources/views/knowledgebase/glossary/create-definition.blade.php"
-					],
-					[
-						"gltermdefi",
-						"app/Knowledgebase/Controllers/GlossaryTermDefinitionsController.php"
-					],
-					[
-						"term.",
-						"app/Knowledgebase/Models/Glossary/Term.php"
-					],
-					[
-						"know",
-						"app/Http/routes/knowledgebase.php"
-					],
-					[
-						"back-ti",
-						"resources/views/knowledgebase/layouts/back-to-sequoia.blade.php"
-					],
-					[
-						"appserv",
-						"app/Providers/AppServiceProvider.php"
-					],
-					[
-						"route/kn",
-						"app/Http/routes/knowledgebase.php"
-					],
-					[
-						"config/ap",
-						"config/app.php"
-					],
-					[
-						"con/app",
-						"vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php"
-					],
-					[
-						"entrieso",
-						"app/Knowledgebase/Controllers/EntriesController.php"
-					],
-					[
-						"articlescontr",
-						"app/Knowledgebase/Controllers/ArticlesController.php"
-					],
-					[
-						"createnetrbac",
-						"database/migrations/2015_09_16_171713_create_entry_backups.php"
-					],
-					[
-						"closeiocont",
-						"app/Http/Controllers/CloseIoController.php"
-					],
-					[
-						"prsegrcon",
-						"app/Http/Controllers/ProposalServiceGroupsController.php"
-					],
-					[
-						"proops",
-						"app/Models/ProposalServiceGroup.php"
 					]
 				],
 				"width": 0.0
@@ -1413,9 +1466,13 @@
 			"select_symbol":
 			{
 				"height": 354.0,
-				"last_filter": "updateend",
+				"last_filter": "showCha",
 				"selected_items":
 				[
+					[
+						"showCha",
+						"showChat"
+					],
 					[
 						"updateend",
 						"updateEndDate"
@@ -1465,12 +1522,12 @@
 						"Container"
 					]
 				],
-				"width": 935.0
+				"width": 734.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 330.0,
 			"status_bar_visible": false,
 			"template_settings":
@@ -1486,6 +1543,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"Closed",
+						"Closed"
+					],
+					[
+						"incidentWas",
+						"incidentWasAssigned"
+					],
+					[
+						"SMIncid",
+						"SMIncidentWasAssigned"
+					],
+					[
+						"assignedB",
+						"assignedById"
+					],
+					[
+						"chat",
+						"chat_enabled	(ChatPolicy.php)"
+					],
+					[
+						"message",
+						"message	(sockets.js)"
+					],
 					[
 						"bro",
 						"broadcastTo"
@@ -1851,141 +1932,50 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/cfort/Code/chat/sockets.js",
+					"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/dashboard.blade.php",
 					"settings":
 					{
-						"buffer_size": 492,
+						"buffer_size": 3071,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cfort/Code/chat/app/Http/routes.php",
+					"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/incident-summary.blade.php",
 					"settings":
 					{
-						"buffer_size": 918,
+						"buffer_size": 3156,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cfort/Code/chat/resources/views/auth/register.blade.php",
+					"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/sidebar.blade.php",
 					"settings":
 					{
-						"buffer_size": 686,
+						"buffer_size": 276,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cfort/Code/chat/app/Http/Controllers/Auth/AuthController.php",
+					"file": "/Users/cfort/Code/sqc/app/Http/Controllers/ClientPortal/IncidentsController.php",
 					"settings":
 					{
-						"buffer_size": 1849,
+						"buffer_size": 2659,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cfort/Code/chat/resources/views/auth/login.blade.php",
+					"file": "/Users/cfort/Code/sqc/app/SQCentral/CurrentUserQueries/FetchIncidentSidebarTupleForActiveServices.php",
 					"settings":
 					{
-						"buffer_size": 546,
+						"buffer_size": 784,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cfort/Code/chat/app/Http/Controllers/ChatController.php",
+					"file": "/Users/cfort/Code/sqc/app/Models/Incident.php",
 					"settings":
 					{
-						"buffer_size": 366,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/resources/views/layouts/standard.blade.php",
-					"settings":
-					{
-						"buffer_size": 1747,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/app/Message.php",
-					"settings":
-					{
-						"buffer_size": 410,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/app/Events/MessageWasPosted.php",
-					"settings":
-					{
-						"buffer_size": 655,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/app/Http/Controllers/MessagesController.php",
-					"settings":
-					{
-						"buffer_size": 1871,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/app/Http/Kernel.php",
-					"settings":
-					{
-						"buffer_size": 980,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/config/broadcasting.php",
-					"settings":
-					{
-						"buffer_size": 1342,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/resources/views/chat.blade.php",
-					"settings":
-					{
-						"buffer_size": 4801,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n",
-					"settings":
-					{
-						"buffer_size": 1688,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/database/migrations/2015_10_04_124405_create_messages_table.php",
-					"settings":
-					{
-						"buffer_size": 732,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/chat/.env",
-					"settings":
-					{
-						"buffer_size": 320,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cfort/Code/redis-test/socket.js",
-					"settings":
-					{
-						"buffer_size": 334,
+						"buffer_size": 7755,
 						"line_ending": "Unix"
 					}
 				}
@@ -1997,10 +1987,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "install",
+				"height": 168.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"pack remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -2225,19 +2223,44 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/cfort/Code/chat",
-				"/Users/cfort/Code/chat/app",
-				"/Users/cfort/Code/chat/app/Events",
-				"/Users/cfort/Code/chat/database",
-				"/Users/cfort/Code/chat/resources",
-				"/Users/cfort/Code/chat/resources/assets",
-				"/Users/cfort/Code/chat/resources/views",
-				"/Users/cfort/Code/chat/resources/views/layouts",
-				"/Users/cfort/Code/chat/resources/views/vendor",
-				"/Users/cfort/Code/chat/tests"
+				"/Users/cfort/Code/sqc",
+				"/Users/cfort/Code/sqc/app",
+				"/Users/cfort/Code/sqc/app/Events",
+				"/Users/cfort/Code/sqc/app/SQCentral",
+				"/Users/cfort/Code/sqc/app/SQCentral/Incident",
+				"/Users/cfort/Code/sqc/app/SQCentral/Slack",
+				"/Users/cfort/Code/sqc/app/SQCentral/Slack/Messages",
+				"/Users/cfort/Code/sqc/resources",
+				"/Users/cfort/Code/sqc/resources/views",
+				"/Users/cfort/Code/sqc/resources/views/client-portal",
+				"/Users/cfort/Code/sqc/resources/views/client-portal/incidents"
 			],
 			"file_history":
 			[
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/cfort/Code/sqc/app/Models/Incident.php",
+				"/Users/cfort/Code/sqc/app/Http/Controllers/IncidentsController.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Incident/Commands/ReportNewIncidentCommand.php",
+				"/Users/cfort/Code/sqc/app/Http/Controllers/IncidentAssignmentsController.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Assignments/Commands/AssignIncidentToUserCommand.php",
+				"/Users/cfort/Code/sqc/resources/views/incidents/edit.blade.php",
+				"/Users/cfort/Code/sqc/resources/views/incidents/assignments/big.blade.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Incident/Events/IncidentWasAssigned.php",
+				"/Users/cfort/Code/sqc/app/Providers/EventServiceProvider.php",
+				"/Users/cfort/Code/sqc/app/Events/Event.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Listeners/NotificationListener.php",
+				"/Users/cfort/Code/sqc/app/Events/EventListener.php",
+				"/Users/cfort/Code/sqc/app/Models/IncidentAssignment.php",
+				"/Users/cfort/Code/sqc/app/Models/CustomerInvoiceLineItem.php",
+				"/Users/cfort/Code/sqc/app/Models/CustomerInvoice.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Incident/Events/IncidentWasCreated.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Listeners/IncidentListener.php",
+				"/Users/cfort/Code/sqc/app/SQCentral/Slack/Messages/IncidentWasAssigned.php",
+				"/Users/cfort/Code/sqc/resources/views/client-portal/incidents/show.blade.php",
+				"/Users/cfort/Code/chat/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/cfort/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/cfort/Code/chat/ChatController",
 				"/Users/cfort/Development/sqc/resources/views/services/search-results/universal.blade.php",
 				"/Users/cfort/Development/sqc/app/Http/Controllers/VendorFeesController.php",
@@ -2341,31 +2364,7 @@
 				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/layouts/section.blade.php",
 				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/layouts/back-to-sequoia.blade.php",
 				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/articles-sidebar.blade.php",
-				"/Users/cfort/Development/sqc_v2/database/migrations/2015_09_16_171713_create_entry_backups.php",
-				"/Users/cfort/Development/sqc_v2/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Models/EntryBackup.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/layouts/knowledgebase.blade.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/articles/show.blade.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Controllers/ArticlesController.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/sections/create.blade.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/layouts/top-level.blade.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/index.blade.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/sections/edit.blade.php",
-				"/Users/cfort/Development/sqc_v2/resources/views/knowledgebase/articles/edit.blade.php",
-				"/Users/cfort/Development/sqc_v2/app/Http/routes/knowledgebase.php",
-				"/Users/cfort/Development/sqc_v2/app/Providers/AppServiceProvider.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Providers/KnowledgebaseServiceProvider.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/UpdateSectionRequest.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/UpdateEntryRequest.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/CreateEntryRequest.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Requests/CreateSectionRequest.php",
-				"/Users/cfort/Development/sqc_v2/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-				"/Users/cfort/Development/sqc_v2/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ParameterBag.php",
-				"/Users/cfort/Development/sqc_v2/app/Knowledgebase/Services/ArticleListViewComposerServiceProvider.php",
-				"/Users/cfort/Development/sqc_v2/app/Providers/ViewComposerProvider.php",
-				"/Users/cfort/Development/sqc_v2/tests/TestCase.php",
-				"/Users/cfort/Development/sqc_v2/.gitignore",
-				"/Users/cfort/Development/sqc_v2/app/SQCentral/CustomerContract/ContractWasSigned.php"
+				"/Users/cfort/Development/sqc_v2/database/migrations/2015_09_16_171713_create_entry_backups.php"
 			],
 			"find":
 			{
@@ -2392,6 +2391,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"super",
+					"whenIncidentWasCreated",
+					"alt+down",
+					"down",
 					"this.message",
 					"input",
 					"Auth",
@@ -2488,6 +2491,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					" $",
+					"goto_definition",
 					"knowledgebase.entries",
 					"knowledgebase.layouts.section",
 					"o",
@@ -2503,68 +2508,47 @@
 			"folders":
 			[
 				{
-					"path": "/Users/cfort/Code/chat"
+					"path": "/Users/cfort/Code/sqc"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 13,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/cfort/Code/chat/sockets.js",
-							"semi_transient": false,
+							"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/dashboard.blade.php",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 492,
+								"buffer_size": 3071,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										78,
-										78
+										186,
+										186
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -2575,74 +2559,6 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 13,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/cfort/Code/chat/app/Http/routes.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 918,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										914,
-										914
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2653,77 +2569,11 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/cfort/Code/chat/resources/views/auth/register.blade.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 686,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										175,
-										175
-									],
-									[
-										298,
-										298
-									],
-									[
-										427,
-										427
-									],
-									[
-										543,
-										543
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"_anf_new": "",
-									"auto_complete": false,
-									"bh_regions":
-									[
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -2734,232 +2584,16 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 46.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/cfort/Code/chat/app/Http/Controllers/Auth/AuthController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1849,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1486,
-										1486
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 996.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/cfort/Code/chat/resources/views/auth/login.blade.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 546,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										239,
-										239
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"_anf_new": "",
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_round_content"
 									],
 									"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
 									"tab_size": 4,
@@ -2967,564 +2601,26 @@
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/cfort/Code/chat/app/Http/Controllers/ChatController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 366,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										271,
-										271
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/Users/cfort/Code/chat/resources/views/layouts/standard.blade.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1747,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1227,
-										1227
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"_anf_new": "",
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 486.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/Users/cfort/Code/chat/app/Message.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 410,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										266,
-										266
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/Users/cfort/Code/chat/app/Events/MessageWasPosted.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 655,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										399,
-										399
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 114.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/Users/cfort/Code/chat/app/Http/Controllers/MessagesController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1871,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1022,
-										1022
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 686.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 10,
-							"file": "/Users/cfort/Code/chat/app/Http/Kernel.php",
+							"buffer": 1,
+							"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/incident-summary.blade.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 980,
+								"buffer_size": 3156,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										752,
-										752
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 96.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/Users/cfort/Code/chat/config/broadcasting.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1342,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										500,
-										500
+										1180,
+										1180
 									]
 								],
 								"settings":
@@ -3533,36 +2629,16 @@
 									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -3573,76 +2649,6 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 126.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 14,
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"file": "/Users/cfort/Code/chat/resources/views/chat.blade.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4801,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3863,
-										3875
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -3653,265 +2659,57 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
 									"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 619.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1688,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1688,
-										1688
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 297.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 14,
-							"file": "/Users/cfort/Code/chat/database/migrations/2015_10_04_124405_create_messages_table.php",
+							"buffer": 2,
+							"file": "/Users/cfort/Code/sqc/resources/views/client-portal/incidents/sidebar.blade.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 732,
+								"buffer_size": 276,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										358,
-										358
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 71.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 15,
-							"file": "/Users/cfort/Code/chat/.env",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 320,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										205,
-										205
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 15,
-							"type": "text"
-						},
-						{
-							"buffer": 16,
-							"file": "/Users/cfort/Code/redis-test/socket.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 334,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										334,
+										0,
 										0
 									]
 								],
@@ -3920,36 +2718,16 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -3960,29 +2738,318 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 16,
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/cfort/Code/sqc/app/Http/Controllers/ClientPortal/IncidentsController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1644,
+										1644
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 722.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/cfort/Code/sqc/app/SQCentral/CurrentUserQueries/FetchIncidentSidebarTupleForActiveServices.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 784,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										465,
+										465
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/cfort/Code/sqc/app/Models/Incident.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7755,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7186,
+										7186
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7508.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -4028,7 +3095,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "1 0 4 1280 773 0 0 1280 777 ",
+			"position": "1 320 151 1280 773 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
@@ -4043,7 +3110,115 @@
 				[
 					[
 						"",
-						"resources/views/chat.blade.php"
+						"resources/views/client-portal/incidents/incident-summary.blade.php"
+					],
+					[
+						"incide",
+						"app/Models/Incident.php"
+					],
+					[
+						"incident-summ",
+						"resources/views/client-portal/incidents/incident-summary.blade.php"
+					],
+					[
+						"inciden",
+						"app/Models/Incident.php"
+					],
+					[
+						"fetchincin",
+						"app/SQCentral/CurrentUserQueries/FetchIncidentSidebarTupleForActiveServices.php"
+					],
+					[
+						"clientportalincd",
+						"app/Http/Controllers/ClientPortal/IncidentsController.php"
+					],
+					[
+						"incidents/sideb",
+						"resources/views/client-portal/incidents/sidebar.blade.php"
+					],
+					[
+						"client-portal/incidents/show",
+						"resources/views/client-portal/incidents/show.blade.php"
+					],
+					[
+						"incidentlist",
+						"app/SQCentral/Listeners/IncidentListener.php"
+					],
+					[
+						"incidentscontr",
+						"app/Http/Controllers/IncidentsController.php"
+					],
+					[
+						"incidentassi",
+						"app/Models/IncidentAssignment.php"
+					],
+					[
+						"customin",
+						"app/Models/CustomerInvoice.php"
+					],
+					[
+						"customerinvoice",
+						"app/Models/CustomerInvoiceLineItem.php"
+					],
+					[
+						"event",
+						"app/Providers/EventServiceProvider.php"
+					],
+					[
+						"incidenass",
+						"app/Models/IncidentAssignment.php"
+					],
+					[
+						"incidentassignmentscon",
+						"app/Http/Controllers/IncidentAssignmentsController.php"
+					],
+					[
+						"assi/big",
+						"resources/views/incidents/assignments/big.blade.php"
+					],
+					[
+						"incide/edit",
+						"resources/views/incidents/edit.blade.php"
+					],
+					[
+						"incidentass",
+						"app/Models/IncidentAssignment.php"
+					],
+					[
+						"incidentwas",
+						"app/SQCentral/Incident/Events/IncidentWasCreated.php"
+					],
+					[
+						"incident",
+						"app/Models/Incident.php"
+					],
+					[
+						"layo/st",
+						"resources/views/layouts/standard.blade.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"chatcontr",
+						"app/Http/Controllers/ChatController.php"
+					],
+					[
+						"sock",
+						"sockets.js"
+					],
+					[
+						"chatcon",
+						"app/Http/Controllers/ChatController.php"
+					],
+					[
+						"mes",
+						"app/Message.php"
+					],
+					[
+						"chatpo",
+						"app/Policies/ChatPolicy.php"
 					],
 					[
 						"message",
@@ -4060,10 +3235,6 @@
 					[
 						"chat",
 						"resources/views/chat.blade.php"
-					],
-					[
-						"chatcontr",
-						"app/Http/Controllers/ChatController.php"
 					],
 					[
 						"cahtco",
@@ -4238,14 +3409,6 @@
 						"composer.json"
 					],
 					[
-						"incidentassi",
-						"app/Models/IncidentAssignment.php"
-					],
-					[
-						"incidentass",
-						"app/Models/IncidentAssignment.php"
-					],
-					[
 						"assiinctous",
 						"app/SQCentral/Assignments/Commands/AssignIncidentToUserCommand.php"
 					],
@@ -4302,16 +3465,8 @@
 						"app/SQCentral/Repositories/Interfaces/IncidentRepositoryInterface.php"
 					],
 					[
-						"incidenass",
-						"app/Models/IncidentAssignment.php"
-					],
-					[
 						"assigncom",
 						"app/SQCentral/Assignments/Commands/AssignIncidentToUserCommand.php"
-					],
-					[
-						"incident",
-						"app/Models/Incident.php"
 					],
 					[
 						"assi/bi",
@@ -4320,10 +3475,6 @@
 					[
 						"inci/edi",
 						"resources/views/incidents/edit.blade.php"
-					],
-					[
-						"user",
-						"app/Models/User.php"
 					],
 					[
 						"yser",
@@ -4344,10 +3495,6 @@
 					[
 						"employee/edit",
 						"resources/views/users/employees/edit.blade.php"
-					],
-					[
-						"inciden",
-						"app/Models/Incident.php"
 					],
 					[
 						"incident/edit",
@@ -4472,86 +3619,6 @@
 					[
 						"entries/sho",
 						"resources/views/knowledgebase/entries/show.blade.php"
-					],
-					[
-						"glossary",
-						"resources/views/knowledgebase/layouts/glossary.blade.php"
-					],
-					[
-						"term.b",
-						"resources/views/knowledgebase/glossary/term.blade.php"
-					],
-					[
-						"glossarytermscon",
-						"app/Knowledgebase/Controllers/GlossaryTermsController.php"
-					],
-					[
-						"back-to",
-						"resources/views/knowledgebase/layouts/back-to-sequoia.blade.php"
-					],
-					[
-						"gloss/create",
-						"resources/views/knowledgebase/glossary/create.blade.php"
-					],
-					[
-						"glossarytermcont",
-						"app/Knowledgebase/Controllers/GlossaryGlobalTermsController.php"
-					],
-					[
-						"arti-side",
-						"resources/views/knowledgebase/articles-sidebar.blade.php"
-					],
-					[
-						"know/layou",
-						"resources/views/knowledgebase/layouts/section.blade.php"
-					],
-					[
-						"glossary.bl",
-						"resources/views/knowledgebase/layouts/glossary.blade.php"
-					],
-					[
-						"glos/edit",
-						"resources/views/knowledgebase/glossary/edit.blade.php"
-					],
-					[
-						"controller",
-						"app/Http/Controllers/Controller.php"
-					],
-					[
-						"top-leve",
-						"resources/views/knowledgebase/layouts/top-level.blade.php"
-					],
-					[
-						"know/layou/",
-						"resources/views/knowledgebase/layouts/section.blade.php"
-					],
-					[
-						"glosglob",
-						"app/Knowledgebase/Controllers/GlossaryGlobalTermsController.php"
-					],
-					[
-						"termcontrl",
-						"app/Knowledgebase/Controllers/GlossaryGlobalTermsController.php"
-					],
-					[
-						"r/know",
-						"app/Http/routes/knowledgebase.php"
-					],
-					[
-						"glostermdefcon",
-						"app/Knowledgebase/Controllers/GlossaryTermDefinitionsController.php"
-					],
-					[
-						"term.bl",
-						"resources/views/knowledgebase/glossary/term.blade.php"
-					],
-					[
-						"defini",
-						"app/Knowledgebase/Models/Glossary/Definition.php"
-					],
-					[
-						"create-d",
-						"resources/views/knowledgebase/glossary/create-definition.blade.php"
 					]
 				],
 				"width": 0.0
@@ -4643,7 +3710,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 89,
+			"window_id": 91,
 			"workspace_name": ""
 		}
 	],
