@@ -22,6 +22,5 @@
     { "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
     { "keys": ["super+shift+w"], "command" : "close_all" },
     { "keys": [ "alt+down" ], "command": "move_to", "args": {"to": "eol", "extend": false} }, 
-    { "keys": [ "alt+up" ], "command": "move_to", "args": {"to": "bol", "extend": false} },
-    { "keys": [ "shift+super+r" ], "command": "goto_definition" }
+    { "keys": [ "alt+up" ], "command": "move_to", "args": {"to": "bol", "extend": false} }
 ]
