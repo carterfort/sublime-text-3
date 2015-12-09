@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{{Form::open(['route' => ['api.v2.${1:object-name}.destroy', \$${2:object}->id], 'method' => 'DELETE', 'class' => 'requires-confirmation text-right', 'data-confirm-message' => '${3:We cannot undo this. Are you sure you want to delete this?}'])}}
+<button class="btn btn-danger"><span class="glyphicon glyphicon-trash"></span> ${4:Delete} </button>
+{{Form::close()}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>delForm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
